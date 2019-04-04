@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: b004f1c2d79678a45b67a5bd721fa825
+timeCreated: 1554377620
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Character
+    100004: Collarbone_L
+    100006: CollarBone_R
+    100008: Foot_L
+    100010: Foot_Nub_L
+    100012: Foot_Nub_L 1
+    100014: Foot_R
+    100016: Head
+    100018: Head_Num
+    100020: Hip
+    100022: Index_Finger_Base_L
+    100024: Index_Finger_Base_R
+    100026: Index_finger_End_L
+    100028: Index_Finger_End_R
+    100030: Index_finger_Middle_L
+    100032: Index_Finger_Middle_R
+    100034: Index_finger_Nub_L
+    100036: Index_Finger_Nub_R
+    100038: Little_Finger_Base_L
+    100040: Little_Finger_Base_R
+    100042: Little_Finger_End_L
+    100044: Little_Finger_End_R
+    100046: Little_Finger_End_R 1
+    100048: Little_Finger_Middle_L
+    100050: Little_Finger_Middle_R
+    100052: Little_Finger_Nub_L
+    100054: Lower_Arm_L
+    100056: Lower_Arm_R
+    100058: Lower_Leg_L
+    100060: Lower_Leg_R
+    100062: Middle_Finger_Base_L
+    100064: Middle_Finger_Base_R
+    100066: Middle_Finger_End_L
+    100068: Middle_Finger_End_R
+    100070: Middle_Finger_Middle_L
+    100072: Middle_Finger_Middle_R
+    100074: Middle_Finger_Nub_L
+    100076: Middle_Finger_Nub_R
+    100078: Palm_L
+    100080: Palm_Nub_L
+    100082: Palm_Nub_R
+    100084: Palm_R
+    100086: Spine_Lower
+    100088: Spine_Upper
+    100090: Thumb_Base_L
+    100092: Thumb_Base_R
+    100094: Thumb_End_L
+    100096: Thumb_End_R
+    100098: Thumb_Middle_L
+    100100: Thumb_Middle_R
+    100102: Thumb_Nub_L
+    100104: Thumb_Nub_R
+    100106: Upper_Arm_L
+    100108: Upper_Arm_R
+    100110: Upper_Leg_L
+    100112: Upper_Leg_R
+    100114: Wrist_L
+    100116: Wrist_Nub_L
+    100118: Wrist_Nub_R
+    100120: Wrist_R
+    400000: //RootNode
+    400002: Character
+    400004: Collarbone_L
+    400006: CollarBone_R
+    400008: Foot_L
+    400010: Foot_Nub_L
+    400012: Foot_Nub_L 1
+    400014: Foot_R
+    400016: Head
+    400018: Head_Num
+    400020: Hip
+    400022: Index_Finger_Base_L
+    400024: Index_Finger_Base_R
+    400026: Index_finger_End_L
+    400028: Index_Finger_End_R
+    400030: Index_finger_Middle_L
+    400032: Index_Finger_Middle_R
+    400034: Index_finger_Nub_L
+    400036: Index_Finger_Nub_R
+    400038: Little_Finger_Base_L
+    400040: Little_Finger_Base_R
+    400042: Little_Finger_End_L
+    400044: Little_Finger_End_R
+    400046: Little_Finger_End_R 1
+    400048: Little_Finger_Middle_L
+    400050: Little_Finger_Middle_R
+    400052: Little_Finger_Nub_L
+    400054: Lower_Arm_L
+    400056: Lower_Arm_R
+    400058: Lower_Leg_L
+    400060: Lower_Leg_R
+    400062: Middle_Finger_Base_L
+    400064: Middle_Finger_Base_R
+    400066: Middle_Finger_End_L
+    400068: Middle_Finger_End_R
+    400070: Middle_Finger_Middle_L
+    400072: Middle_Finger_Middle_R
+    400074: Middle_Finger_Nub_L
+    400076: Middle_Finger_Nub_R
+    400078: Palm_L
+    400080: Palm_Nub_L
+    400082: Palm_Nub_R
+    400084: Palm_R
+    400086: Spine_Lower
+    400088: Spine_Upper
+    400090: Thumb_Base_L
+    400092: Thumb_Base_R
+    400094: Thumb_End_L
+    400096: Thumb_End_R
+    400098: Thumb_Middle_L
+    400100: Thumb_Middle_R
+    400102: Thumb_Nub_L
+    400104: Thumb_Nub_R
+    400106: Upper_Arm_L
+    400108: Upper_Arm_R
+    400110: Upper_Leg_L
+    400112: Upper_Leg_R
+    400114: Wrist_L
+    400116: Wrist_Nub_L
+    400118: Wrist_Nub_R
+    400120: Wrist_R
+    4300000: Character
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Character
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #84'
+    second: {fileID: 2100000, guid: f9b185b8a1d16144ea7df3b9ca5aa0ff, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
